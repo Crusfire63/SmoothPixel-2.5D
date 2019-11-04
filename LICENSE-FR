@@ -1,0 +1,340 @@
+                    LICENCE GRAND PUBLIC DU GNU
+                       Version 2, juin 1991
+
+ Copyright (C) 1989, 1991 Free Software Foundation, Inc..,
+ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+ Tout le monde est autorisé à copier et à distribuer des copies textuelles.
+ de ce document de licence, mais sa modification n'est pas autorisée.
+
+                            Préambule
+
+  Les licences de la plupart des logiciels sont conçues pour enlever votre
+la liberté de le partager et de le changer.  En revanche, le grand public de GNU
+La licence est destinée à garantir votre liberté de partager et de modifier gratuitement
+pour s'assurer que le logiciel est gratuit pour tous ses utilisateurs.  Ce
+La Licence Publique Générale s'applique à la plupart des Logiciels Libres
+de la Fondation et à tout autre programme dont les auteurs s'engagent à
+l'utiliser.  (Certains autres logiciels de la Free Software Foundation sont couverts par la
+la GNU Lesser General Public License à la place).  Vous pouvez l'appliquer à
+vos programmes, aussi.
+
+  Quand nous parlons de logiciel libre, nous faisons référence à la liberté, et non à la liberté.
+prix.  Nos licences grand public sont conçues pour que vous puissiez vous assurer que
+ont la liberté de distribuer des copies de logiciels libres (et de faire payer pour les logiciels libres)
+ce service si vous le souhaitez), que vous recevez le code source ou que vous pouvez l'obtenir
+si vous le voulez, que vous pouvez changer le logiciel ou en utiliser des parties
+dans les nouveaux programmes libres ; et que vous savez que vous pouvez faire ces choses.
+
+  Pour protéger vos droits, nous devons imposer des restrictions qui interdisent
+à quiconque de vous refuser ces droits ou de vous demander de les céder.
+Ces restrictions se traduisent par certaines responsabilités pour vous si vous
+distribuer des copies du logiciel, ou si vous le modifiez.
+
+  Par exemple, si vous distribuez des copies d'un tel programme, si
+gratuitement ou contre rémunération, vous devez donner aux destinataires tous les droits que
+que vous avez.  Vous devez vous assurer qu'eux aussi reçoivent ou peuvent recevoir les informations suivantes
+code source.  Et vous devez leur montrer ces termes pour qu'ils sachent leur
+droits.
+
+  Nous protégeons vos droits en deux étapes : (1) protéger les droits d'auteur du logiciel, et
+(2) vous offrir cette licence qui vous donne l'autorisation légale de copier,
+distribuer et/ou modifier le logiciel.
+
+  Aussi, pour la protection de chaque auteur et la nôtre, nous voulons nous assurer que
+que tout le monde comprenne qu'il n'y a aucune garantie pour ce produit gratuit
+logiciel.  Si le logiciel est modifié par quelqu'un d'autre et transmis, nous pouvons
+veulent que leurs destinataires sachent que ce qu'ils ont n'est pas l'original, donc
+que tout problème introduit par d'autres ne se répercutera pas sur l'original.
+la réputation des auteurs.
+
+  Enfin, tout programme libre est constamment menacé par les logiciels
+brevets.  Nous souhaitons éviter le danger que les redistributeurs d'une version gratuite de la
+obtiendra individuellement des licences de brevet, ce qui aura pour effet de rendre le programme
+propriétaire du programme.  Afin d'éviter cela, nous avons clairement indiqué que toute
+le brevet doit faire l'objet d'une licence d'utilisation gratuite pour tous ou ne pas faire l'objet d'une licence du tout.
+
+  Les conditions précises de reproduction, de distribution et de distribution de ces documents
+les modifications suivent.
+
+                    LICENCE GRAND PUBLIC DU GNU
+   CONDITIONS DE REPRODUCTION, DE DISTRIBUTION ET DE MODIFICATION
+
+  0. Cette Licence s'applique à tout programme ou autre travail qui contient
+un avis placé par le détenteur du droit d'auteur indiquant qu'il peut être distribué
+selon les termes de cette Licence Publique Générale.  Le "Programme", ci-dessous,
+fait référence à un tel programme ou travail, et un " travail fondé sur le programme " est un " travail fondé sur le programme ".
+désigne le Programme ou toute œuvre dérivée en vertu de la loi sur le droit d'auteur :
+c'est-à-dire une œuvre contenant le Programme ou une partie de celui-ci,
+soit mot pour mot, soit avec des modifications et/ou traduits dans un autre document
+la langue.  (Ci-après, la traduction est incluse sans limitation dans
+le terme "modification").  Chaque titulaire de licence est appelé "vous".
+
+Les activités autres que la copie, la distribution et la modification ne sont pas autorisées.
+couvertes par la présente Licence ; elles sont hors de son champ d'application.  L'acte de
+l'exécution du programme n'est pas restreinte, et les résultats du programme
+n'est couverte que si son contenu constitue une œuvre basée sur les principes de l
+(indépendamment du fait qu'il ait été créé en exécutant le programme).
+La véracité de cette affirmation dépend de ce que fait le Programme.
+
+  1. Vous pouvez copier et distribuer des copies textuelles des documents suivants du Programme
+le code source tel que vous le recevez, sur n'importe quel support, à condition que vous
+publier de façon visible et appropriée sur chaque exemplaire un rapport d'évaluation approprié
+avis de droit d'auteur et d'exonération de garantie ; conservez intactes toutes les
+les avis qui font référence à la présente Licence et à l'absence de toute garantie ;
+et remettre à tout autre bénéficiaire du Programme une copie de la présente Licence.
+en même temps que le Programme.
+
+Vous pouvez exiger des frais pour l'acte physique de transfert d'une copie, et
+vous pouvez, à votre gré, offrir une protection de garantie en échange de frais.
+
+  2. Vous pouvez modifier votre ou vos copies du Programme ou de toute partie de celui-ci.
+de celui-ci, formant ainsi une œuvre basée sur le Programme, et copier et
+distribuer ces modifications ou travaux conformément aux dispositions de l'article 1
+ci-dessus, à condition que vous remplissiez également toutes ces conditions :
+
+    a) Vous devez faire en sorte que les fichiers modifiés portent des avis bien en vue
+    indiquant que vous avez modifié les fichiers et la date de tout changement.
+
+    b) Vous devez faire en sorte que toute œuvre que vous distribuez ou publiez, qui en
+    contient ou est dérivé en tout ou en partie du Programme ou d'un programme ou d'un programme
+    une partie de celle-ci, d'être licencié dans son ensemble sans frais pour tous les tiers.
+    aux termes de la présente Licence.
+
+    c) Si le programme modifié lit normalement les commandes de manière interactive
+    quand vous courez, vous devez le provoquer, quand vous avez commencé à courir pour de tels
+    l'utilisation interactive de la manière la plus courante, pour imprimer ou afficher un fichier
+    y compris un avis de droit d'auteur approprié et un avis de droit d'auteur.
+    avis qu'il n'y a pas de garantie (ou sinon, en disant que vous fournissez
+    une garantie) et que les utilisateurs peuvent redistribuer le programme sous la responsabilité de
+    ces conditions, et en indiquant à l'utilisateur comment consulter une copie de ces conditions.
+    Permis de conduire.  (Exception : si le programme lui-même est interactif, mais qu'il n'est pas interactif.
+    n'imprime normalement pas une telle annonce, votre travail est basé sur
+    le programme n'est pas tenu d'imprimer une annonce).
+
+Ces exigences s'appliquent à l'œuvre modifiée dans son ensemble.  Si
+les sections identifiables de ce travail ne sont pas dérivées du Programme,
+et peuvent être raisonnablement considérées comme des œuvres indépendantes et distinctes dans les domaines suivants
+la présente Licence et ses conditions ne s'appliquent pas à ces personnes.
+lorsque vous les distribuez en tant qu'œuvres séparées.  Mais quand vous avez
+distribuer les mêmes sections comme faisant partie d'un tout qui est un travail basé sur l'œuvre
+sur le Programme, la distribution de l'ensemble doit se faire selon les modalités suivantes
+cette Licence, dont les permissions pour les autres titulaires de licence s'étendent à la
+tout le tout, et donc à chacune des parties, peu importe qui l'a écrit.
+
+Par conséquent, le présent article n'a pas pour objet de revendiquer des droits ou de contester
+votre droit de travailler entièrement écrit par vous ; plutôt, l'intention est de
+d'exercer le droit de contrôler la distribution d'instruments dérivés ou d'instruments
+les travaux collectifs basés sur le Programme.
+
+De plus, la simple agrégation d'un autre travail qui n'est pas fondé sur le Programme
+avec le Programme (ou avec un travail basé sur le Programme) sur un volume de
+un support de stockage ou de distribution ne place pas l'autre œuvre sous la responsabilité de l
+la portée de la présente Licence.
+
+  3. Vous pouvez copier et distribuer le Programme (ou une œuvre basée sur celui-ci,
+en vertu de l'article 2) sous forme de code objet ou exécutable selon les termes de l'article 2.
+Les sections 1 et 2 ci-dessus, à condition que vous fassiez aussi l'une des choses suivantes :
+
+    a) L'accompagner de l'étiquette complète lisible à la machine correspondante.
+    le code source, qui doit être distribué selon les termes des Sections
+    1 et 2 ci-dessus sur un support habituellement utilisé pour l'échange de logiciels ; ou,
+
+    b) L'accompagner d'une offre écrite, valable pour au moins trois ans.
+    ans, de donner à une tierce partie, pour un montant n'excédant pas celui de votre
+    le coût de l'exécution physique de la distribution de la source, d'une distribution complète de
+    copie lisible par machine du code source correspondant, qui doit être
+    distribués conformément aux dispositions des sections 1 et 2 ci-dessus sur un support d'information
+    habituellement utilisés pour l'échange de logiciels ; ou,
+
+    c) l'accompagner de l'information que vous avez reçue sur l'offre
+    pour distribuer le code source correspondant.  (Cette alternative est
+    ne sont autorisées que pour une distribution non commerciale et seulement si vous
+    a reçu le programme sous forme de code objet ou d'exécutable avec un tel fichier
+    une offre, conformément à la sous-section b ci-dessus).
+
+Le code source d'une œuvre désigne la forme préférée de l'œuvre pour
+d'y apporter des modifications.  Pour un travail exécutable, source complète
+code signifie tout le code source de tous les modules qu'il contient, plus tout code
+les fichiers de définition d'interface associés, ainsi que les scripts utilisés pour
+contrôle la compilation et l'installation de l'exécutable.  Toutefois, en tant que
+exception spéciale, le code source distribué n'a pas besoin d'inclure
+tout ce qui est normalement distribué (en source ou en binaire)
+) avec les principaux composants (compilateur, noyau, etc.) de la forme
+système d'exploitation sur lequel l'exécutable s'exécute, à moins que ce composant
+lui-même accompagne l'exécutable.
+
+Si la distribution du code exécutable ou du code objet est faite en offrant
+l'accès à la copie à partir d'un endroit désigné, offrant ainsi l'équivalent
+l'accès pour copier le code source à partir du même endroit compte comme
+distribution du code source, même si les tiers ne le sont pas
+obligé de copier la source avec le code objet.
+
+  4. Vous ne pouvez pas copier, modifier, sous-licencier ou distribuer le programme.
+sauf dans les cas expressément prévus par la présente licence.  Toute tentative
+de copier, de modifier, de sous-licencier ou de distribuer le Programme est
+nul et non avenu, et mettra automatiquement fin à vos droits en vertu de la présente licence.
+Toutefois, les parties qui ont reçu de vous des copies ou des droits en vertu de la
+cette Licence ne sera pas résiliée tant qu'elle sera en vigueur
+les parties se conforment toujours pleinement à la loi.
+
+  5. Vous n'êtes pas tenu d'accepter cette Licence, puisque vous n'avez pas
+l'a signé.  Cependant, rien d'autre ne vous donne la permission de modifier ou d'ajouter des données.
+distribuer le Programme ou ses œuvres dérivées.  Ces actions sont les suivantes
+interdit par la loi si vous n'acceptez pas cette Licence.  Par conséquent, en
+modifier ou distribuer le programme (ou tout travail fondé sur les résultats de l
+), vous indiquez que vous acceptez cette Licence pour ce faire, et
+tous ses termes et conditions de copie, de distribution ou de modification
+le Programme ou travaille sur la base de celui-ci.
+
+  6. Chaque fois que vous redistribuez le programme (ou tout travail basé sur le programme
+), le destinataire reçoit automatiquement une licence du programme
+pour copier, distribuer ou modifier le Programme sous réserve des conditions suivantes
+les présentes conditions générales.  Vous ne pouvez pas imposer d'autres
+des restrictions à l'exercice par les bénéficiaires des droits qui leur sont conférés par les présentes.
+Vous n'êtes pas responsable de l'application de la conformité par des tiers pour
+cette Licence.
+
+  7. Si, à la suite d'une décision de justice ou d'une allégation de brevet
+contrefaçon ou pour toute autre raison (non limitée aux questions de brevets),
+(qu'il s'agisse d'une ordonnance du tribunal, d'une entente ou d'une ordonnance de l
+autrement) qui contredisent les conditions de la présente Licence, ils ne doivent pas
+vous dispenser des conditions de la présente Licence.  Si vous ne pouvez pas
+afin de satisfaire simultanément à vos obligations au titre de la présente convention.
+Licence et toute autre obligation pertinente, en conséquence, vous devez
+peut ne pas distribuer le Programme du tout.  Par exemple, si un brevet
+ne permettrait pas de redistribuer le Programme en franchise de redevances par les moyens suivants
+tous ceux qui reçoivent des copies directement ou indirectement par votre intermédiaire, alors
+la seule façon de satisfaire à la fois cette Licence et cette Licence serait de
+s'abstenir complètement de distribuer le Programme.
+
+Si une partie quelconque du présent article est jugée invalide ou inapplicable en vertu de la Loi sur l'accès à l'information et la protection des renseignements personnels.
+dans des circonstances particulières, le reste de l'article vise à
+s'appliquent et l'article dans son ensemble est destiné à s'appliquer dans d'autres pays de l
+circonstances.
+
+Le but de cette section n'est pas de vous inciter à enfreindre la loi.
+ou d'autres droits de propriété ou pour contester la validité d'un brevet ou d'un autre droit de propriété, ou pour contester la validité d'un
+de telles réclamations ; le présent article a pour seul but de protéger le
+l'intégrité du système de distribution de logiciels libres, qui est
+mis en œuvre par des pratiques de licences publiques.  Beaucoup de gens ont fait
+des contributions généreuses à la large gamme de logiciels distribués
+par l'entremise de ce système en s'appuyant sur l'application uniforme de ce qui suit
+Il appartient à l'auteur ou au donateur de décider s'il est prêt ou non à utiliser le système.
+de distribuer des logiciels par l'intermédiaire de tout autre système et un titulaire de licence ne peut pas
+imposer ce choix.
+
+Cette section a pour but d'expliquer clairement ce que l'on croit être
+être une conséquence du reste de cette Licence.
+
+  8. Si la distribution et/ou l'utilisation du Programme est restreinte dans les pays suivants
+certains pays, soit par des brevets, soit par des interfaces protégées par le droit d'auteur, la
+le titulaire original du droit d'auteur qui place le programme sous cette licence
+peut ajouter une limitation explicite de la répartition géographique, à l'exclusion de
+ces pays, de sorte que la distribution n'est autorisée qu'à l'intérieur de ces pays ou entre eux.
+pays n'en sont donc pas exclus.  Dans ce cas, la présente Licence intègre
+la limitation comme si elle était écrite dans le corps de cette Licence.
+
+  9. La Free Software Foundation peut publier des versions révisées et/ou de nouvelles versions
+de la Licence Publique Générale de temps en temps.  Ces nouvelles versions
+être similaire dans l'esprit à la présente version, mais peut différer dans le détail de ce qui suit
+aborder de nouveaux problèmes ou de nouvelles préoccupations.
+
+Un numéro de version distinctif est attribué à chaque version.  Si le programme
+spécifie un numéro de version de la présente Licence qui lui est applicable et "tout
+version ultérieure", vous avez la possibilité de suivre les conditions générales de vente.
+soit de cette version, soit de toute version ultérieure publiée par le Free
+Software Foundation.  Si le programme ne spécifie pas de numéro de version de
+cette Licence, vous pouvez choisir n'importe quelle version jamais publiée par le Logiciel Libre
+Fondation.
+
+  10. Si vous souhaitez incorporer des parties du programme dans d'autres programmes gratuits de l
+dont les conditions de distribution sont différentes, écrivez à l'auteur
+pour demander la permission.  Pour les logiciels dont les droits d'auteur sont détenus par le Free
+Software Foundation, écrivez à la Free Software Foundation ; nous écrivons parfois à
+faire des exceptions à cette règle.  Notre décision sera guidée par les deux objectifs suivants
+de préserver le statut libre de tous les dérivés de nos logiciels libres et
+de promouvoir le partage et la réutilisation des logiciels en général.
+
+                            AUCUNE GARANTIE
+
+
+  11. PARCE QUE LE PROGRAMME EST SOUS LICENCE GRATUITE, IL N'Y A PAS DE GARANTIE
+POUR LE PROGRAMME, DANS LA MESURE PERMISE PAR LA LOI APPLICABLE.  SAUF QUAND
+AUTREMENT INDIQUÉ PAR ÉCRIT LES DÉTENTEURS DES DROITS D'AUTEUR ET/OU D'AUTRES PARTIES
+FOURNIR LE PROGRAMME "TEL QUEL" SANS GARANTIE D'AUCUNE SORTE, QU'ELLE SOIT EXPRESSE OU IMPLICITE
+OU IMPLICITES, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES IMPLICITES DE
+LA QUALITÉ MARCHANDE ET L'ADAPTATION À UN USAGE PARTICULIER.  L'ENSEMBLE DU RISQUE EN TANT QUE
+À LA QUALITÉ ET À LA PERFORMANCE DU PROGRAMME EST AVEC VOUS.  DEVRAIENT ÊTRE
+S'AVÈRENT DÉFECTUEUX, VOUS ASSUMEZ LE COÛT DE TOUS LES SERVICES D'ENTRETIEN NÉCESSAIRES,
+RÉPARATION OU CORRECTION.
+
+  12. EN AUCUN CAS À MOINS QUE LA LOI APPLICABLE NE L'EXIGE OU QU'IL N'EN SOIT CONVENU PAR ÉCRIT
+EST-CE QUE TOUT DÉTENTEUR DE DROITS D'AUTEUR, OU TOUTE AUTRE PARTIE QUI POURRAIT MODIFIER ET/OU
+REDISTRIBUER LE PROGRAMME COMME AUTORISÉ CI-DESSUS, ÊTRE RESPONSABLE ENVERS VOUS POUR LES DOMMAGES,
+Y COMPRIS TOUT DOMMAGE GÉNÉRAL, SPÉCIAL, ACCESSOIRE OU CONSÉCUTIF SURVENANT
+DE L'UTILISATION OU DE L'INCAPACITÉ D'UTILISER LE PROGRAMME (Y COMPRIS MAIS SANS S'Y LIMITER
+À LA PERTE DE DONNÉES OU À DES DONNÉES RENDUES INEXACTES OU À DES PERTES SUBIES PAR
+VOUS OU DES TIERS OU L'INCAPACITÉ DU PROGRAMME À FONCTIONNER AVEC D'AUTRES PERSONNES.
+), MÊME SI LE TITULAIRE OU L'AUTRE PARTIE A ÉTÉ AVISÉ DE L'EXISTENCE DE L
+LA POSSIBILITÉ DE TELS DOMMAGES.
+
+                     FIN DES TERMES ET CONDITIONS
+
+            Comment appliquer ces conditions à vos nouveaux programmes
+
+  Si vous développez un nouveau programme, et que vous voulez qu'il soit du plus grand
+le meilleur moyen d'y parvenir est de faire en sorte qu'il soit possible d'en faire un usage public.
+logiciel libre que chacun peut redistribuer et modifier dans ces conditions.
+
+  Pour ce faire, joignez au programme les avis suivants.  C'est plus sûr
+pour les attacher au début de chaque fichier source afin d'en optimiser l'efficacité
+de garantie ; et chaque dossier doit comporter au moins les éléments suivants
+la ligne "copyright" et un pointeur vers l'endroit où se trouve l'avis complet.
+
+    <une ligne pour donner le nom du programme et une brève idée de ce qu'il fait >.
+    Copyright (C) <année> <nom de l'auteur> <nom de l'auteur
+
+    Ce programme est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier
+    sous les termes de la Licence Publique Générale GNU telle que publiée par
+    la Free Software Foundation ; soit la version 2 de la Licence, soit
+    (à votre choix) toute version ultérieure.
+
+    Ce programme est distribué dans l'espoir qu'il sera utile,
+    mais SANS AUCUNE GARANTIE ; sans même la garantie implicite de
+    LA COMMERCIALISATION ou l'ADÉQUATION À UN OBJECTIF PARTICULIER.  Voir le
+    GNU General Public License pour plus de détails.
+
+    Vous devriez avoir reçu une copie de la Licence Publique Générale GNU avec
+    avec ce programme ; sinon, écrivez à la Free Software Foundation, Inc..,
+    51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+Ajoutez également des informations sur la façon de vous contacter par courrier électronique et papier.
+
+Si le programme est interactif, faites en sorte qu'il affiche un court préavis comme celui-ci
+lorsqu'il démarre en mode interactif :
+
+    Gnomovision version 69, Copyright (C) année nom de l'auteur
+    Gnomovision est livré sans AUCUNE GARANTIE ; pour plus de détails, tapez'show w'.
+    C'est un logiciel libre, et vous êtes invités à le redistribuer.
+    sous certaines conditions ; tapez " show c " pour plus de détails.
+
+Les commandes hypothétiques `show w' et `show c' devraient montrer les commandes appropriées
+parties de la Licence Publique Générale.  Bien sûr, les commandes que vous utilisez peuvent
+s'appeler autre chose que " show w " et " show c " ; ils pourraient même s'appeler " show w " ou " show c ".
+des clics de souris ou des éléments de menu, selon les besoins de votre programme.
+
+Vous devriez également demander à votre employeur (si vous travaillez comme programmeur) ou à votre employeur (si vous travaillez comme programmeur) de vous fournir les renseignements suivants
+l'école, s'il y a lieu, à signer un "avis de non-responsabilité de droits d'auteur" pour le programme, s'il y a lieu
+nécessaire.  Voici un exemple ; modifiez les noms :
+
+  Yoyodyne, Inc. décline par la présente tout intérêt en matière de droit d'auteur dans le programme.
+  `Gnomovision' (qui fait des passes aux compilateurs) écrit par James Hacker.
+
+  <signature de Ty Coon>, 1er avril 1989
+  Ty Coon, Président de Vice
+
+Cette Licence Publique Générale ne permet pas d'incorporer votre programme dans
+programmes propriétaires.  Si votre programme est une bibliothèque de sous-programmes, vous pouvez
+considèrent qu'il est plus utile de permettre de lier les applications propriétaires à l'application
+bibliothèque.  Si c'est ce que vous voulez faire, utilisez le GNU Lesser General
+Public License au lieu de cette licence.
